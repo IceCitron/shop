@@ -57,11 +57,11 @@
         },
         {
             "id": 5,
-            "name": "Amphetamin",
+            "name": "Amphetamine",
             "description": "Can resist the voltage. Super cool.",
             "price": 180,
             "author_id": 3,
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRfClJ1lHDLvREHzt6kGmxrgHSOXkgRSq2tA&usqp=CAU"
+            "photo_url": "https://www.narconon.org/FURL/imagecache/cropfit@w=710/blob/images/articles/a/9/a988e810-350f-11e8-8268-42010a8004cc/amphetmines.jpg"
         },
         {
             "id": 6,
